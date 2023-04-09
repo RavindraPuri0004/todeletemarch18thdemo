@@ -1,0 +1,51 @@
+.Our-Services{
+    position: relative;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 5px solid rgb(16, 20, 50);
+}
+#Services{
+    border: 1px solid #fff;
+}
+.checked {
+    color: orange;
+  }
+.Reviwe{
+  
+   background-color: aliceblue;
+   padding-top: 40px;
+   border: 5px solid #000;
+}
+.Reviwe img{
+    border-radius: 50%;
+    height: 50%;
+    width: 50%;
+}
+
+/* img Hover */
+.zoom {
+    padding: 50px;
+    transition: transform .2s; /* Animation */
+    width: 240px;
+    height: 320px;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+  .footerstyle{
+    margin-top: 20px;
+    background-color:#4b4f4b1a;
+    border-radius: 10px;
+    border: 4px solid rgb(30, 118, 241);
+    
+  }
+   .footerstyle ul li{
+    color: #fff;
+    text-decoration-color: #fff;
+    
+  }
+   
+  
+  

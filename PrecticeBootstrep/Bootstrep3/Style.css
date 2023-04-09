@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.AboutStyle{
+    background-color:rgb(68, 200, 240);
+}
+header{
+    background-image: url(https://asapkerala.gov.in/wp-content/uploads/2022/02/net.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+}
+.p1{
+    background-color: rgb(202, 20, 20);
+    color: #fff;
+ 
+}
+.zoom {
+    padding: 0px;
+    background-color:#fff;
+    transition: transform .2s; /* Animation */
+    width: 110px;
+    height: 50px;
+    margin: 15px auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+  
+  .coursestyle {
+     /* height: 40vh; */
+    color: #192f60;
+    margin: 50px 0px;
+    background: #d9deea;
+  }
+  .Contact{
+    /* height: 40vh; */
+   color: #192f60;
+   margin: 50px 0px;
+   background: #d9deea;
+ }
+
+
+  
